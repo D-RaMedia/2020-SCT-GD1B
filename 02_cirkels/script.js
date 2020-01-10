@@ -18,7 +18,7 @@ function repeat () {
     var greenColors = ["#900000", "#007900", "#000090", "#909000"];
     var rdx = Math.floor(Math.random() * 1536);
     var rdy = Math.floor(Math.random() * 754);
-    var rdc = Math.floor(Math.random() * 5);
+    var rdc = Math.floor(Math.random() * 4);
     var rds = Math.floor(Math.random() * 100);
 context.beginPath();
 context.lineWidth = "6.9";
